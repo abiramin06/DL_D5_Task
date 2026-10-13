@@ -1,0 +1,3 @@
+Model,Accuracy,Macro F1,Training time,Inference time/ticket (seconds)
+TF-IDF + Logistic Regression,1.0,1.0,See baseline.py output,0.00018417466684089351
+DistilBERT,1.0,1.0,See distilbert.py output,0.025535009333204167

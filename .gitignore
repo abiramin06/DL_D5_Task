@@ -1,0 +1,18 @@
+Python cache
+
+pycache/
+.pytest_cache/
+.venv/
+
+DistilBERT model files
+
+distilbert_model/
+distilbert_results/
+
+Saved models
+
+*.joblib
+
+Generated Python files
+
+*.pyc
